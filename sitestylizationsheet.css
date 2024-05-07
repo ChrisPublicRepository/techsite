@@ -1,0 +1,121 @@
+body {
+
+background-image: url("amigaos.jpg"); 
+
+background-repeat: no-repeat;
+
+background-position: center;
+
+background-attachment: fixed; 
+
+
+
+
+
+}
+
+
+.container {
+	
+display: flex; 
+
+background-color: rgb(27, 79, 114);
+	
+	
+}
+
+
+.imagecontainer {
+	display: flex;
+	
+	background-color: rgb(76,0,153); 
+	
+	
+}
+
+
+.terminal_div {
+	
+background: linear-gradient(green, black); 
+	
+font-family: "Micro 5 Charted"; 
+	
+font-size: 60px;
+	
+	
+}
+
+
+.micro-5-charted-regular {
+  font-family: "Micro 5 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+@keyframes img_enlarge {
+	
+	
+	
+	
+}
+
+
+img:hover {
+	
+	width: 490px;
+	
+	
+	
+}
+pricebox {
+	
+	display: flex; 
+	
+	
+	background-color: rgb(96, 96, 96);
+	
+}
+
+
+.div-center {
+	
+	text-align: center;
+}
+
+.jersey-20-charted-regular {
+  font-family: "Jersey 20 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.display-title {
+	
+	background: linear-gradient(black, yellow); 
+	
+	font-family: Jersey 20 Charted";
+	
+	
+}
+
+
+
+
+.productbox {
+	
+	background-color: black;
+	
+	width: 400px;
+	
+	height: 400px; 
+	
+	margin: 3px;
+	
+	display: flex;
+	
+	
+}
+
+
