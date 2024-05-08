@@ -15,6 +15,24 @@ background-attachment: fixed;
 }
 
 
+
+
+
+td, th, tr, table, {
+	
+
+
+border: 7px solid white; 
+
+
+background-color: dark-blue; 
+	
+}
+	
+
+
+
+
 .container {
 	
 display: flex; 
