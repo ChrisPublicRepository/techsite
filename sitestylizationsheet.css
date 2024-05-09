@@ -85,9 +85,19 @@ font-size: 60px;
 }
 
 .navbar {
+
+overflow: hidden; 
+	
 margin: 6px; 
 
-background-color: rgb(103,103,103);
+background-color: rgb(25, 118, 210);
+
+
+}
+
+.navbar: a {
+
+color: rgb(253, 216, 53);
 
 }
 
@@ -98,7 +108,7 @@ img:hover {
 	
 	
 }
-pricebox {
+.pricebox {
 	
 	display: flex; 
 	
