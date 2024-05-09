@@ -14,21 +14,26 @@ background-attachment: fixed;
 
 }
 
+img {
 
+height: 474px; 
 
+width: 355px; 
 
+object-fit: cover; 
 
-td, th, tr, table, {
 	
 
-
-border: 7px solid white; 
-
-
-background-color: dark-blue; 
-	
 }
-	
+
+
+table, th, td {
+
+border: 5px solid white;
+
+background-color: silver;
+
+}
 
 
 
