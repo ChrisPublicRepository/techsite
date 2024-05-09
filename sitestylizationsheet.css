@@ -97,12 +97,23 @@ background-color: rgb(25, 118, 210);
 
 }
 
-.navbar: a {
+.navbar:a {
 
 color: rgb(0, 51, 0);
 
 }
 
+
+a:hover {
+color: rgb(60, 179, 113); 
+
+}
+
+
+a:visited {
+
+
+}
 img:hover {
 	
 	width: 490px;
